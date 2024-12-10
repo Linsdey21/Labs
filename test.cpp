@@ -1,8 +1,8 @@
 #include <iostream>
 
-void main() {
+void main(){ 
 
-a = 3;
-b = 1;
+int a = 3;
 
+b = a * a;
 }
