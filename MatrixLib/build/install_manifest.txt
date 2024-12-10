@@ -1,0 +1,2 @@
+/mnt/c/Users/admasutp/Desktop/Mil/1.1/MatrixProg/MatrixSolution/MatrixLib/install/lib/libMatrixLib.a
+/mnt/c/Users/admasutp/Desktop/Mil/1.1/MatrixProg/MatrixSolution/MatrixLib/install/include/matrix_operations.h

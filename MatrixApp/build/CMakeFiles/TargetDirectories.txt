@@ -1,0 +1,7 @@
+/mnt/c/Users/admasutp/Desktop/Mil/1.1/MatrixProg/MatrixSolution/MatrixApp/build/CMakeFiles/MatrixApp.dir
+/mnt/c/Users/admasutp/Desktop/Mil/1.1/MatrixProg/MatrixSolution/MatrixApp/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/admasutp/Desktop/Mil/1.1/MatrixProg/MatrixSolution/MatrixApp/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/admasutp/Desktop/Mil/1.1/MatrixProg/MatrixSolution/MatrixApp/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/admasutp/Desktop/Mil/1.1/MatrixProg/MatrixSolution/MatrixApp/build/CMakeFiles/install.dir
+/mnt/c/Users/admasutp/Desktop/Mil/1.1/MatrixProg/MatrixSolution/MatrixApp/build/CMakeFiles/install/local.dir
+/mnt/c/Users/admasutp/Desktop/Mil/1.1/MatrixProg/MatrixSolution/MatrixApp/build/CMakeFiles/install/strip.dir

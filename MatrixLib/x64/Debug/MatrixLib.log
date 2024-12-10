@@ -1,0 +1,199 @@
+﻿  matrix_operations.cpp
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(6,26): error C2039: "vector": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(6,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(6,32): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(8,28): error C2065: matrix: необъявленный идентификатор
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(8,22): error C2530: row: ссылки должны быть инициализированы
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(8,22): error C3531: row: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(8,26): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(8,34): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(9,26): error C3312: не найдена вызываемая функция "begin" для типа "int"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(9,26): error C3312: не найдена вызываемая функция "end" для типа "int"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(9,24): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(9,29): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(16,26): error C2039: "vector": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(16,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(16,32): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(17,9): error C2065: matrix: необъявленный идентификатор
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(18,20): error C2039: "invalid_argument": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(18,20): error C3861: invalid_argument: идентификатор не найден
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(21,21): error C2065: matrix: необъявленный идентификатор
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(22,28): error C2065: matrix: необъявленный идентификатор
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(22,22): error C2530: row: ссылки должны быть инициализированы
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(22,22): error C3531: row: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(22,26): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(22,34): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(23,26): error C3312: не найдена вызываемая функция "begin" для типа "int"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(23,26): error C3312: не найдена вызываемая функция "end" для типа "int"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(23,24): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(23,29): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(24,30): error C2039: "min": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(24,30): error C3861: min: идентификатор не найден
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(30,26): error C2039: "vector": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(30,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(30,32): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(31,9): error C2065: matrix: необъявленный идентификатор
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(32,20): error C2039: "invalid_argument": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(32,20): error C3861: invalid_argument: идентификатор не найден
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(35,21): error C2065: matrix: необъявленный идентификатор
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(36,28): error C2065: matrix: необъявленный идентификатор
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(36,22): error C2530: row: ссылки должны быть инициализированы
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(36,22): error C3531: row: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(36,26): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(36,34): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(37,26): error C3312: не найдена вызываемая функция "begin" для типа "int"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(37,26): error C3312: не найдена вызываемая функция "end" для типа "int"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(37,24): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(37,29): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(38,30): error C2039: "max": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(38,30): error C3861: max: идентификатор не найден
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(44,6): error C2039: "vector": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(44,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(44,6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(44,12): error C2059: синтаксическая ошибка: <
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(44,18): error C2039: "vector": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(44,56): error C2039: "vector": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(44,68): error C2039: "vector": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(44,101): error C2039: "string": не является членом "std".
+  (компиляция исходного файла "/matrix_operations.cpp")
+      C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\predefined C++ types (compiler internal)(347,11):
+       см. объявление "std"
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(44,115): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
+C:\Users\admasutp\Desktop\Mil\1.1\MatrixProg\MatrixSolution\MatrixLib\matrix_operations.cpp(44,115): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  (компиляция исходного файла "/matrix_operations.cpp")
+  
