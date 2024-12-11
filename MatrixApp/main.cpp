@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <fstream>
 #include <vector>
 #include <string>
@@ -53,7 +53,7 @@ std::vector<std::vector<int>> readMatrixFromFile(const std::string& filename) {
 int main(int argc, char* argv[]) {
     if (argc != 4) {
         printUsage();
-        return 1;
+        return 1
     }
 
     try {
