@@ -1,0 +1,28 @@
+name: Check file on directory
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  check-test-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Check for test_travis.txt
+        run: |
+          if [ ! -f "test_travis.txt" ]; then
+            echo "Error: test_travis.txt not found!"
+            exit 1
+          else
+            echo "test_travis.txt exists!"
+          fi
+
+      - name: Count lines in test_travis.txt
+        run: |
+          wc -l test_travis.txt
