@@ -1,4 +1,4 @@
-name: Build, Test, and Generate Documentation
+name: Build and Test
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    name: Build, Test, and Generate Documentation
+    name: Build and Test Project
     runs-on: ubuntu-latest
 
     steps:
@@ -31,27 +31,3 @@ jobs:
           cd build
           cmake ..
           make
-
-      # Генерация документации
-      - name: Generate documentation
-        run: |
-          doxygen Doxyfile
-
-      # Создать ветку gh-pages (если не существует)
-      - name: Create gh-pages branch (if not exists)
-        run: |
-          if ! git ls-remote --exit-code origin gh-pages; then
-            git checkout --orphan gh-pages
-            git reset --hard
-            git config user.name "GitHub Actions"
-            git config user.email "actions@github.com"
-            git commit --allow-empty -m "Initialize gh-pages branch"
-            git push origin gh-pages
-          fi
-
-      # Развертывание документации на GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs/html
